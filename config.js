@@ -32,8 +32,8 @@ window.Config = {
       url: 'https://lo-li.icu'
     },
     {
-      text: 'Gitea',
-      url: 'https://git.lo-li.icu'
+      text: 'AO3',
+      url: 'https://ao3-cn.top'
     },
   ]
 };
