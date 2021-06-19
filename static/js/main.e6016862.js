@@ -8352,8 +8352,8 @@ function(e, t, n) {
             className: "container"
         },
         o.a.createElement("p", null, "\u90e8\u7f72\u4e8e ", o.a.createElement(l, {
-            to: "https://pages.github.com/",
-            text: "Github Page"
+            to: "https://pages.cloudflare.com/",
+            text: "CloudFlare Pages"
         })), o.a.createElement("p", null, "\xa9 2020 ", o.a.createElement(l, {
             to: "https://lo-li.icu/",
             text: "FutureApple"
