@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: "FutureApple's Service Status",
+  SiteName: "某科学的服务状态检测",
 
   // 站点链接
   SiteUrl: '/',
