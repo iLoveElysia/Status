@@ -8352,11 +8352,11 @@ function(e, t, n) {
             className: "container"
         },
         o.a.createElement("p", null, "\u90e8\u7f72\u4e8e ", o.a.createElement(l, {
-            to: "https://pages.cloudflare.com/",
-            text: "CloudFlare Pages"
-        })), o.a.createElement("p", null, "\xa9 2021 ", o.a.createElement(l, {
+            to: "https://pages.github.com/",
+            text: "Github Pages"
+        })), o.a.createElement("p", null, "\xa9 2024 ", o.a.createElement(l, {
             to: "https://lo-li.icu/",
-            text: "FutureApple"
+            text: "iLoveElysia"
         }))))
     };
     function c(e, t) { (null == t || t > e.length) && (t = e.length);
